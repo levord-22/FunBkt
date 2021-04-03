@@ -1,6 +1,7 @@
 ___________________________________________________________________________
 # "FunnyBucket" game
 #### First pet-project
+#### This is an attempt to create something more than "Hello world!" 
 ___________________________________________________________________________
 
 Now:
