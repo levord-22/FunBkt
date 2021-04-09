@@ -4,6 +4,8 @@ ___________________________________________________________________________
 #### This is an attempt to create something more than "Hello world!" 
 ___________________________________________________________________________
 
+[![Watch te video](https://i9.ytimg.com/vi/t000i_ARTqI/mq1.jpg?sqp=CPyLwIMG&rs=AOn4CLDMK5KBQZKO_dmUEBjjH82tI4D-PQ)](https://youtu.be/t000i_ARTqI)
+
 Now:
 
 :white_check_mark: "Splashscreen" with printed text    
